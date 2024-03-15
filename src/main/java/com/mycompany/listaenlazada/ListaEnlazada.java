@@ -21,6 +21,7 @@ public class ListaEnlazada {
         lista.BorrarValor(100);
         lista.mostrar();
     }
+    //hola victor
 
 }
 
